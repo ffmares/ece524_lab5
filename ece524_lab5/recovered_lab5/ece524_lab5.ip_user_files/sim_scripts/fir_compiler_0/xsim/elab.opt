@@ -1,0 +1,1 @@
+--incr --debug typical --relax --mt 2 -generic_top "ARCH=0" -generic_top "TEST_CASE=0" -generic_top "USE_DDS=1"  -L xbip_utils_v3_0_11 -L axi_utils_v2_0_7 -L fir_compiler_v7_2_20 -L xil_defaultlib -L secureip -L xpm --snapshot fir_compiler_0 xil_defaultlib.fir_compiler_0 -log elaborate.log

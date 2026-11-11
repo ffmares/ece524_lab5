@@ -1,0 +1,1 @@
+vopt -gARCH=0 -gTEST_CASE=0 -gUSE_DDS=1 -l elaborate.log +acc=npr -suppress 10016  -L xil_defaultlib -L xbip_utils_v3_0_11 -L axi_utils_v2_0_7 -L fir_compiler_v7_2_20 -L secureip -work xil_defaultlib xil_defaultlib.fir_compiler_0 -o fir_compiler_0_opt

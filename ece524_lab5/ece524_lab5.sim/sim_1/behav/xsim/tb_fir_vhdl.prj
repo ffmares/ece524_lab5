@@ -1,0 +1,15 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../ece524_lab5.gen/sources_1/ip/dds_500k/sim/dds_500k.vhd" \
+"../../../../ece524_lab5.gen/sources_1/ip/fir_compiler_0/sim/fir_compiler_0.vhd" \
+
+vhdl2008 xil_defaultlib  \
+"../../../../ece524_lab5.srcs/sources_1/new/fir_pkg.vhd" \
+"../../../../ece524_lab5.srcs/sources_1/new/fir_parallel.vhd" \
+"../../../../ece524_lab5.srcs/sources_1/new/fir_serial.vhd" \
+"../../../../ece524_lab5.srcs/sources_1/new/fir_vendor.vhd" \
+"../../../../ece524_lab5.srcs/sources_1/new/main.vhd" \
+"../../../../ece524_lab5.srcs/sim_1/new/tb_fir.vhd" \
+
+# Do not sort compile order
+nosort

@@ -1,0 +1,5 @@
+vhdl xil_defaultlib  \
+"../../../../ece524_lab5.gen/sources_1/ip/dds_1600k/sim/dds_1600k.vhd" \
+
+# Do not sort compile order
+nosort

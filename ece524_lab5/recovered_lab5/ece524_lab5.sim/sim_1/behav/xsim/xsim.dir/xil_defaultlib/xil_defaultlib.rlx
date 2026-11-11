@@ -1,0 +1,14 @@
+0.7
+2020.2
+Oct 13 2023
+20:47:58
+C:/Users/feran/Documents/Vivado_Projects/ece524_lab5/ece524_lab5.srcs/sim_1/new/tb_fir.v,1794261829,verilog,,,C:/Users/feran/Documents/Vivado_Projects/ece524_lab5/ece524_lab5.srcs/sources_1/new/fir_defs.vh,tb_fir,,,../../../../../ece524_lab5.srcs/sources_1/new,,,,,
+C:/Users/feran/Documents/Vivado_Projects/ece524_lab5/ece524_lab5.srcs/sources_1/new/fir_defs.vh,1794230058,verilog,,,,,,,,,,,,
+C:/Users/feran/Documents/Vivado_Projects/ece524_lab5/ece524_lab5.srcs/sources_1/new/fir_parallel.v,1793047186,verilog,,C:/Users/feran/Documents/Vivado_Projects/ece524_lab5/ece524_lab5.srcs/sources_1/new/fir_serial.v,C:/Users/feran/Documents/Vivado_Projects/ece524_lab5/ece524_lab5.srcs/sources_1/new/fir_defs.vh,fir_parallel,,,../../../../../ece524_lab5.srcs/sources_1/new,,,,,
+C:/Users/feran/Documents/Vivado_Projects/ece524_lab5/ece524_lab5.srcs/sources_1/new/fir_serial.v,1793047186,verilog,,C:/Users/feran/Documents/Vivado_Projects/ece524_lab5/ece524_lab5.srcs/sources_1/new/fir_vendor.v,C:/Users/feran/Documents/Vivado_Projects/ece524_lab5/ece524_lab5.srcs/sources_1/new/fir_defs.vh,fir_serial,,,../../../../../ece524_lab5.srcs/sources_1/new,,,,,
+C:/Users/feran/Documents/Vivado_Projects/ece524_lab5/ece524_lab5.srcs/sources_1/new/fir_vendor.v,1794230953,verilog,,C:/Users/feran/Documents/Vivado_Projects/ece524_lab5/ece524_lab5.srcs/sources_1/new/main.v,,fir_vendor,,,../../../../../ece524_lab5.srcs/sources_1/new,,,,,
+C:/Users/feran/Documents/Vivado_Projects/ece524_lab5/ece524_lab5.srcs/sources_1/new/main.v,1793047186,verilog,,C:/Users/feran/Documents/Vivado_Projects/ece524_lab5/ece524_lab5.srcs/sim_1/new/tb_fir.v,,main,,,../../../../../ece524_lab5.srcs/sources_1/new,,,,,
+C:/Users/feran/Documents/Vivado_Projects/ece524_lab5/recovered_lab5/ece524_lab5.gen/sources_1/ip/dds_1600k/sim/dds_1600k.vhd,1794260761,vhdl,,,,dds_1600k,,,,,,,,
+C:/Users/feran/Documents/Vivado_Projects/ece524_lab5/recovered_lab5/ece524_lab5.gen/sources_1/ip/dds_500k/sim/dds_500k.vhd,1794230677,vhdl,,,,dds_500k,,,,,,,,
+C:/Users/feran/Documents/Vivado_Projects/ece524_lab5/recovered_lab5/ece524_lab5.gen/sources_1/ip/fir_compiler_0/sim/fir_compiler_0.vhd,1794230673,vhdl,,,,fir_compiler_0,,,,,,,,
+C:/Users/feran/Documents/Vivado_Projects/ece524_lab5/recovered_lab5/ece524_lab5.sim/sim_1/behav/xsim/glbl.v,1697210495,verilog,,,,glbl,,,,,,,,
